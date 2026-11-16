@@ -1,0 +1,16 @@
+# Local database & Flask runtime session cache
+*.db
+*.sqlite3
+flask_session/
+
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments & secrets
+venv/
+.venv/
+env/
+.env
+*.log
